@@ -1,5 +1,7 @@
-#include <stdio.h>
 // find the area  area = side * side //
+
+#include <stdio.h>
+
 int main(){
 int side;
 printf("enter side");
@@ -7,3 +9,17 @@ scanf("%d", &side);
 printf("the area  is : %d", side * side);
     return 0;
 }
+
+//find the circle of radius//
+
+#include <stdio.h>
+
+int main(){
+int side;
+printf("enter side");
+scanf("%d", &side);
+printf("the area  is : %d", side * side);
+    return 0;
+}
+
+
